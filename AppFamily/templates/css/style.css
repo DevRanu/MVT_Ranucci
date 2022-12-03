@@ -13,8 +13,13 @@
     border: 8px solid #1985A1;
     border-radius: 30px;
     font-size: 30px;
+    text-align: center;
     color: #CF1259;
     background-color: #2A1E5C;
+}
+
+.opciones p:hover{
+    color: #ffffff;
 }
 
 .opcion1 p{
@@ -49,3 +54,40 @@
     font-size: 30px;
     padding: 8px;
 }
+
+.opcion1 p:hover{
+    width: 210px;
+    height: 65px;
+    margin: 50px 50px;
+    border: 6px solid #1985A1;
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 50px;
+    text-align: center;
+    padding: 12px;
+}
+
+.opcion2 p:hover{
+    width: 210px;
+    height: 65px;
+    margin: 50px 50px;
+    border: 6px solid #1985A1;
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 50px;
+    text-align: center;
+    padding: 12px;    
+}
+
+.opcion3 p:hover{
+    width: 210px;
+    height: 65px;
+    margin: 50px 50px;
+    border: 6px solid #1985A1;
+    background-color: #000000;
+    color: #ffffff;
+    font-size: 50px;
+    text-align: center;
+    padding: 12px;
+}
+
